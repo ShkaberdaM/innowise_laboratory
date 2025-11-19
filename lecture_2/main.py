@@ -33,7 +33,6 @@ user_profile = {
     "stage": life_stage,
     "hobbies": hobbies
 }
-
 # Display output
 print("\n","-"*10)
 print("Profile Summary:")
